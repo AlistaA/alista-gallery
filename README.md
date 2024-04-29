@@ -18,19 +18,28 @@ Fitur yang tersedia saat ini meliputi:
 - Menghapus komentar
 - Menyukai gambar
 
+## Tampilan Website
+
+![Tampilan-1](https://github.com/AlistaA/alista-gallery/blob/main/tampilan1.png)
+![Tampilan-2](https://github.com/AlistaA/alista-gallery/blob/main/tampilan2.png)
+![Tampilan-3](https://github.com/AlistaA/alista-gallery/blob/main/tampilan3.png)
+![Tampilan-4](https://github.com/AlistaA/alista-gallery/blob/main/tampilan4.png)
+![Tampilan-5](https://github.com/AlistaA/alista-gallery/blob/main/tampilan5.png)
+
+
 ## ERD, Relasi, dan UML Use Case
 
 ### ERD (Diagram Entitas Hubungan)
 
-![ERD](https://github.com/nafisamaulidina/Caca-Gallery/blob/main/erd.jpeg)
+![ERD](https://github.com/AlistaA/alista-gallery/blob/main/erd.jpeg)
 
 ### Relasi
 
-![Relasi](https://github.com/nafisamaulidina/Caca-Gallery/blob/main/relasi.jpeg)
+![Relasi](https://github.com/AlistaA/alista-gallery/blob/main/relasi.jpeg)
 
 ### UML (Diagram Kasus Penggunaan)
 
-![UML](https://github.com/nafisamaulidina/Caca-Gallery/blob/main/uml.jpeg)
+![UML](https://github.com/AlistaA/alista-gallery/blob/main/uml.jpeg)
 
 ## Prasyaratan
 
@@ -43,7 +52,7 @@ Sebelum Anda menjalankan aplikasi ini, pastikan Anda memenuhi prasyarat berikut:
 
 1. Clone Repository
 ```
-https://github.com/nafisamaulidina/Caca-Gallery
+https://github.com/AlistaA/alista-gallery.git
 ```
 
 2. Install Composer
