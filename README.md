@@ -52,7 +52,7 @@ Sebelum Anda menjalankan aplikasi ini, pastikan Anda memenuhi prasyarat berikut:
 
 1. Clone Repository
 ```
-https://github.com/AlistaA/alista-gallery.git
+git clone https://github.com/AlistaA/alista-gallery.git
 ```
 
 2. Install Composer
